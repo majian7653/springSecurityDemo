@@ -1,0 +1,5 @@
+/.idea/
+/auth-server/target/
+/resourceserver/target/
+/ssoClient/target/
+/springsecuritydemo.iml
