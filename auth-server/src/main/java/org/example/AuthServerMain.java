@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @Deacription TODO
+ * @Deacription 用户认证中心配置启动类
  * @Author majian
  * @Date 2020/12/27
  * @Version 1.0
